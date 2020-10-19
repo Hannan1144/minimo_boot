@@ -1,0 +1,76 @@
+ul li a {
+    margin-left: 70px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+#lifestyle {
+    
+margin: 0 70px;
+}
+#lifestile-content {
+
+padding: 0 25px;
+}
+#lifestile-content img {
+    
+}
+#lifestile-content h6 {
+    font-family: 'Playfair Display', serif;
+}
+#lifestile-content h1 {
+    padding: 0px;
+    font-family: 'Playfair Display', serif;
+}
+#lifestile-content p {
+    font-family: 'Playfair Display', serif;
+}
+#newslatter {
+    font-family: 'Playfair Display', serif;
+}
+input{
+    background:none;
+    border-bottom: 1px solid black;
+    position: relative;
+    overflow: hidden;
+    font-family: 'Playfair Display', serif;
+}
+.submit-button {
+    position:absolute;
+    top: 80px;
+    right: 0;
+    transform: translate(0px, 0px);
+    font-family: 'Playfair Display', serif;
+}
+#load-more {
+    
+padding-top: 30px;
+font-family: 'Playfair Display', serif;
+}
+#footer {
+    background-color: #f0f0f0;
+}
+#copyright {
+
+}
+#copyright ul{
+    display: flex;
+    justify-content: space-between;
+}
+#copyright ul li {
+    list-style: none;
+    margin-right: -10px;
+    font-size: 14px;
+    font-family: 'Playfair Display', serif;
+}
+#font-icon {
+    font-size: 14px;
+}
+#font-icon ul {
+    display: flex;
+    justify-content: space-between;
+}
+#font-icon ul li {
+    list-style: none;
+    font-family: 'Playfair Display', serif;
+}
